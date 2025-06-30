@@ -1,0 +1,98 @@
+[
+    {
+        "cid": 1,
+        "obverse": "Cat",
+        "reverse": "বিড়াল ",
+        "score": 1
+    },
+    {
+        "cid": 2,
+        "obverse": "Pen",
+        "reverse": "কলম",
+        "score": 1
+    },
+    {
+        "cid": 3,
+        "obverse": "Horse",
+        "reverse": "ঘোড়া",
+        "score": 1
+    },
+    {
+        "cid": 4,
+        "obverse": "Cow",
+        "reverse": "গোরু",
+        "score": 1
+    },
+    {
+        "cid": 5,
+        "obverse": "Ladder",
+        "reverse": "মই",
+        "score": 1
+    },
+    {
+        "cid": 6,
+        "obverse": "Tinnitus",
+        "reverse": "Perception of sound when no corresponding external sound is present.",
+        "score": 1
+    },
+    {
+        "cid": 7,
+        "obverse": "Presbycusis",
+        "reverse": "Age-related hearing loss",
+        "score": 2
+    },
+    {
+        "cid": 8,
+        "obverse": "Ischemia",
+        "reverse": "Shortage of blood supply, causing lack of oxygen",
+        "score": 1
+    },
+    {
+        "cid": 9,
+        "obverse": "Embolism",
+        "reverse": "Lodging of an embolus, a blockage-causing piece of material, inside a blood vessel",
+        "score": 1
+    },
+    {
+        "cid": 10,
+        "obverse": "Hemostasis",
+        "reverse": "Process to prevent and stop bleeding (or haemorrhage)",
+        "score": 2
+    },
+    {
+        "cid": 11,
+        "obverse": "Cr",
+        "reverse": "Chromium",
+        "score": 2
+    },
+    {
+        "cid": 12,
+        "obverse": "Rb",
+        "reverse": "Rubidium",
+        "score": 2
+    },
+    {
+        "cid": 13,
+        "obverse": "Nb",
+        "reverse": "Niobium",
+        "score": 2
+    },
+    {
+        "cid": 14,
+        "obverse": "Ge",
+        "reverse": "Germanium",
+        "score": 2
+    },
+    {
+        "cid": 15,
+        "obverse": "Mn",
+        "reverse": "Manganese",
+        "score": 2
+    },
+    {
+        "cid": 16,
+        "obverse": "o",
+        "reverse": "r",
+        "score": 2
+    }
+]

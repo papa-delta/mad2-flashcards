@@ -1,0 +1,4 @@
+-Install Vue CLI
+-Set up Vuex,Vue-router,PWA, and other necessary requirements
+-Copy all the component files from this folder to the app
+-Run the app from the terminal
